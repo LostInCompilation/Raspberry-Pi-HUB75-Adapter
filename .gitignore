@@ -1,0 +1,5 @@
+.DS_Store
+fp-info-cache
+HUB75Adapter-backups/
+*.lck
+old_version/
