@@ -78,31 +78,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "HUB75Adapter.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 39,
-          "size_x": 864,
-          "size_y": 1079
-        }
-      },
-      {
-        "name": "HUB75Adapter.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 864,
-          "pos_y": 38,
-          "size_x": 864,
-          "size_y": 1079
-        }
-      }
-    ]
+    "files": []
   }
 }
