@@ -1,5 +1,4 @@
 .DS_Store
-fp-info-cache
-HUB75Adapter-backups/
+fp-info-cache*
 *.lck
-old_version/
+HUB75Adapter-backups/
