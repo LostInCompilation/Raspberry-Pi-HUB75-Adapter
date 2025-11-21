@@ -115,7 +115,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -1584,7 +1583,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5b030ed5-a90f-4db6-a142-379ffaad6fae")
+			(uuid "c9d03fe3-073e-40de-922f-f7af38a3586c")
 		)
 		(fp_line
 			(start 29.5 -15)
@@ -1594,7 +1593,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e2c5aa36-1003-4534-9462-421964655d81")
+			(uuid "cc6bb8b0-ecdb-48ff-b51a-2362b917ff45")
 		)
 		(fp_line
 			(start 17 15)
@@ -1604,7 +1603,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "144e979e-e607-44a8-ac56-bab359bb810c")
+			(uuid "0f088bb5-3212-4309-8099-b600c2e30fbb")
 		)
 		(fp_line
 			(start 4.4 15)
@@ -1614,7 +1613,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "43e6d1f7-f2f1-480a-9dd6-668dacef7338")
+			(uuid "f9ad107d-ea64-4f90-b3b8-b88412f77918")
 		)
 		(fp_line
 			(start -29.5 15)
@@ -1624,7 +1623,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "de5fe260-c4c6-459e-a56a-f1146fc9dadf")
+			(uuid "ec656f45-6a1d-4791-8472-8d6fbc21715c")
 		)
 		(fp_line
 			(start -32.5 -12)
@@ -1634,7 +1633,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "324fe23b-09b2-4071-b3d1-d6a7464a6e4a")
+			(uuid "df69b56e-55d9-4753-9fe1-b0badc8d211e")
 		)
 		(fp_arc
 			(start 32.5 12)
@@ -1645,7 +1644,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e1fd1e85-d8b8-48d3-b027-58338184d81c")
+			(uuid "9f331484-e9a0-40e7-81fe-51d6e870976a")
 		)
 		(fp_arc
 			(start 29.5 -15)
@@ -1656,7 +1655,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a2b64d03-b391-4f90-b88e-fc84235cbd14")
+			(uuid "018ee171-6bac-4d30-9349-0ab2721527cd")
 		)
 		(fp_arc
 			(start -29.5 15)
@@ -1667,7 +1666,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "53311afe-f2f3-4c4f-ad90-15e7420113b3")
+			(uuid "05cc18d6-01df-44e1-b305-1f00a3a92a30")
 		)
 		(fp_arc
 			(start -32.5 -12)
@@ -1678,7 +1677,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9ec2e9c6-1d03-44f6-b6b0-fc8593150cb5")
+			(uuid "124495b1-d0ba-40fb-a2aa-ca3bffbf65c5")
 		)
 		(fp_line
 			(start 33.75 15.75)
@@ -1688,7 +1687,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4ef17e3c-8396-4bcb-88e0-6a7353885c40")
+			(uuid "d9d96588-e5df-4a88-9783-0d9b0fc4b66c")
 		)
 		(fp_line
 			(start 33.75 -15.25)
@@ -1698,7 +1697,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bc037207-e9e7-4bbd-bbab-5aae7a5236a7")
+			(uuid "578b63aa-238d-4784-a919-47cbea24d8e6")
 		)
 		(fp_line
 			(start -32.75 15.75)
@@ -1708,7 +1707,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "76e18b88-4f5f-4f74-b213-51d3598f8710")
+			(uuid "98e1499a-41fa-4c9f-b1cc-6d973eec80ed")
 		)
 		(fp_line
 			(start -32.75 -15.25)
@@ -1718,7 +1717,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "36f16e57-58f8-4a55-b612-7ae84c4ce9f6")
+			(uuid "7f2b56d6-8207-43f7-9986-e3170938300c")
 		)
 		(fp_line
 			(start 32.5 12)
@@ -1728,7 +1727,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c60f0ab7-0907-47c6-b728-31da0e3ce319")
+			(uuid "8c2e99ae-4cc2-441e-bdaa-145e9b7fc0f3")
 		)
 		(fp_line
 			(start 29.5 -15)
@@ -1738,7 +1737,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b227658e-c7e4-4323-a918-1b74ec2790d8")
+			(uuid "0836de3c-ea41-4aac-97de-443f9754a4f7")
 		)
 		(fp_line
 			(start 17 15)
@@ -1748,7 +1747,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7993fcd0-0407-4ff6-8b93-574f458221af")
+			(uuid "890185bc-81bd-4260-bece-3682f32a51fa")
 		)
 		(fp_line
 			(start 4.4 15)
@@ -1758,7 +1757,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e7213c6e-75a3-49b7-9241-ce32dc3a9373")
+			(uuid "8c9ef2f9-1708-4728-9df2-67829084c993")
 		)
 		(fp_line
 			(start -29.5 15)
@@ -1768,7 +1767,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4824ab36-6641-4538-aada-b63ca71f8571")
+			(uuid "9981cc36-ee78-42ee-9112-788ca09ef69e")
 		)
 		(fp_line
 			(start -32.5 -12)
@@ -1778,7 +1777,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fca51e7b-db17-4cf0-bd66-324b35099674")
+			(uuid "73aa07b4-3438-45eb-a1fe-6b9e6bde0487")
 		)
 		(fp_arc
 			(start 32.5 12)
@@ -1789,7 +1788,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1216faba-dd49-4ab5-8708-86412191fdae")
+			(uuid "caf275ab-531f-43f7-b5bf-859ac9990b42")
 		)
 		(fp_arc
 			(start 29.5 -15)
@@ -1800,7 +1799,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "981673e3-e53b-4808-813d-7783ab9e5a4b")
+			(uuid "2477f7dd-d10f-4acc-8f0d-7effe9e8c13c")
 		)
 		(fp_arc
 			(start -29.5 15)
@@ -1811,7 +1810,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "21e4fdec-11bd-4455-8580-3ace9399d863")
+			(uuid "3112ad63-217f-4d17-97b7-39b2acff903b")
 		)
 		(fp_arc
 			(start -32.5 -12)
@@ -1822,35 +1821,35 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "510e44b9-3c1b-4d2b-9ded-c5c8e1bc6ce9")
+			(uuid "a92a48a9-e1ac-401d-b849-da49a964a99c")
 		)
 		(pad "" np_thru_hole circle
 			(at -29 -11.5 180)
 			(size 2.75 2.75)
 			(drill 2.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "492540e3-fc31-457e-9963-de358bef9906")
+			(uuid "5ad399d8-ede3-4b23-96fe-31d4a62afacf")
 		)
 		(pad "" np_thru_hole circle
 			(at -29 11.5 180)
 			(size 2.75 2.75)
 			(drill 2.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "117f05ce-cf30-40f2-85e0-3c9c4cf62f7c")
+			(uuid "64d2469a-e83a-4ee7-9b5f-cf972df896cf")
 		)
 		(pad "" np_thru_hole circle
 			(at 29 -11.5 180)
 			(size 2.75 2.75)
 			(drill 2.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "01b4e85b-e9b8-48f2-9c9d-9f163b08616e")
+			(uuid "46216663-4910-40ad-afa5-f59dfd03b218")
 		)
 		(pad "" np_thru_hole circle
 			(at 29 11.5 180)
 			(size 2.75 2.75)
 			(drill 2.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "4306defc-1efb-4d4e-9b80-ac98358b3232")
+			(uuid "fab86ed0-a2b8-404c-a4d1-331684fce8f2")
 		)
 		(pad "1" thru_hole rect
 			(at -24.13 -10.23 180)
@@ -2333,7 +2332,7 @@
 			(uuid "6c3664ed-970f-4bf0-b674-8e63b4619832")
 		)
 		(embedded_fonts no)
-		(model "/Users/marc/Documents/KiCad/8.0/3dmodels/Raspberry PI Zero W.step"
+		(model "/Users/marc/Documents/KiCad/9.0/3dmodels/Raspberry PI Zero W.step"
 			(offset
 				(xyz -32.5 -15 0)
 			)

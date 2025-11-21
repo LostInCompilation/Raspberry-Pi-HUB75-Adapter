@@ -513,7 +513,7 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../Desktop/HUB75Adapter.step",
+      "step": "../../../../../../Desktop/HUB75Adapter.step",
       "svg": "",
       "vrml": "../../../../../Desktop/HUB75Adapter.wrl"
     },
